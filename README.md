@@ -48,13 +48,16 @@ The app shares business logic across Android and iOS while delivering native UI 
 ## 📸 Screenshots  
 *(Add screenshots from both Android & iOS here)*  
 Android Screenshots:-
-<img width="1280" height="2856" alt="Screenshot_20250812_012836" src="https://github.com/user-attachments/assets/23168bd2-62e2-4589-a25b-e8d2dae7fe78" />
-
-<img width="1280" height="2856" alt="Screenshot_20250812_012009" src="https://github.com/user-attachments/assets/88a5d5e8-3f35-4d60-b919-c3f6fd5d600e" />
+<p float="left">
+  <img width="300" alt="Screenshot_20250812_012836" src="https://github.com/user-attachments/assets/23168bd2-62e2-4589-a25b-e8d2dae7fe78" />
+  <img width="300" alt="Screenshot_20250812_012009" src="https://github.com/user-attachments/assets/88a5d5e8-3f35-4d60-b919-c3f6fd5d600e" />
+</p>
 
 iOS Screenshots
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-12 at 01 26 44" src="https://github.com/user-attachments/assets/1abe5d9e-6606-467c-8b4e-4f5856196f15" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-12 at 01 26 56" src="https://github.com/user-attachments/assets/56c83d5f-9834-4601-bb77-e14a81574093" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1abe5d9e-6606-467c-8b4e-4f5856196f15" alt="Simulator Screenshot - iPhone 16 - 2025-08-12 at 01 26 44" width="300" />
+  <img src="https://github.com/user-attachments/assets/56c83d5f-9834-4601-bb77-e14a81574093" alt="Simulator Screenshot - iPhone 16 - 2025-08-12 at 01 26 56" width="300" />
+</p>
 
 
 ---
