@@ -8,7 +8,7 @@ class ArticlesService(private val httpClient: HttpClient) {
 
     private val country = "us"
     private val category = "business"
-    private val apiKey = "8b07f123c81f4921a034c3aa4615c0f5"
+    private val apiKey = "Your Api Key"
 
     suspend fun fetchArticles(): List<ArticlesResponse.Article>{
         val response : ArticlesResponse = httpClient.get("https://newsapi.org/v2/top-headlines?country=$country&category=$category&apiKey=$apiKey").body()
